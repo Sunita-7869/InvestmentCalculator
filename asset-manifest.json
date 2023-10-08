@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sunita-7869/InvestmentCalculator.git/static/css/main.8fd0dbeb.css",
+    "main.js": "/Sunita-7869/InvestmentCalculator.git/static/js/main.605433fb.js",
+    "static/media/investment-calculator-logo.png": "/Sunita-7869/InvestmentCalculator.git/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/Sunita-7869/InvestmentCalculator.git/index.html",
+    "main.8fd0dbeb.css.map": "/Sunita-7869/InvestmentCalculator.git/static/css/main.8fd0dbeb.css.map",
+    "main.605433fb.js.map": "/Sunita-7869/InvestmentCalculator.git/static/js/main.605433fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd0dbeb.css",
+    "static/js/main.605433fb.js"
+  ]
+}
